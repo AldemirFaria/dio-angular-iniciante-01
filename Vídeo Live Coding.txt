@@ -1,0 +1,10 @@
+Vídeo Live Coding - Primeiros passos com Angular
+
+
+Live Coding - Primeiros passos com Angular
+https://www.youtube.com/watch?v=sn-fFe18h2k
+
+
+Github
+https://github.com/rodrigogts/angular-iniciante-01
+
